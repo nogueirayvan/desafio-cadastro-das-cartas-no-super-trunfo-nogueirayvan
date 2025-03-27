@@ -29,7 +29,7 @@ int main() {
   scanf("%s", &estado1);
 
   printf ("Digite codigo da carta:  ");
-  scanf ("%s", codigoCarta1);
+  scanf ("%s", &codigoCarta1);
 
   printf ("Digite nome da cidade: ");
   scanf ("%s", &nomeCidade1);
@@ -56,7 +56,7 @@ int main() {
   scanf("%s", &estado2);
 
   printf ("Digite codigo da carta:  ");
-  scanf ("%s", codigoCarta2);
+  scanf ("%s", &codigoCarta2);
 
   printf ("Digite nome da cidade: ");
   scanf ("%s", &nomeCidade2);
